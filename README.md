@@ -1,4 +1,5 @@
 # LLMike: Exploring Large Language Models' Abilities in Wheel of Fortune Riddles
+
 This repository contains LLMike, the framework introduced in the paper "***LLMike: Exploring Large Language Models' Abilities in Wheel of Fortune Riddles***". It enables large language models to play the textual version of the game *Wheel of Fortune*, inspired by the famous TV show.
 
 ## Table of Contents
