@@ -1,0 +1,24 @@
+seed: 123456
+verbose: true
+
+data:
+  path: ../data/WoF.jsonl
+
+no_letter_loss: true
+
+player:
+  type: ollama
+  name: gemma2:2b
+
+
+reporting:
+  root: ../reports
+  method:
+    - attempts 
+    - completion%
+    - wheel
+    - letter_distribution
+  #continue_from: -
+
+
+version: wheel 
