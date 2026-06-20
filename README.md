@@ -74,6 +74,34 @@ LLMike allows researchers to evaluate **Large Language Models** (LLMs) in a cont
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
+## Citation
+
+If you use this code or dataset in your research, please cite:
+
+​​```bibtex
+@inproceedings{gjinika-etal-2025-llmike,
+    title = "{LLM}ike: Exploring Large Language Models' Abilities in Wheel of Fortune Riddles",
+    author = "Gjinika, Ejdis  and
+      Arici, Nicola  and
+      Loreggia, Andrea  and
+      Putelli, Luca  and
+      Serina, Ivan  and
+      Gerevini, Alfonso Emilio",
+    editor = "Bosco, Cristina  and
+      Jezek, Elisabetta  and
+      Polignano, Marco  and
+      Sanguinetti, Manuela",
+    booktitle = "Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025)",
+    month = sep,
+    year = "2025",
+    address = "Cagliari, Italy",
+    publisher = "CEUR Workshop Proceedings",
+    url = "https://aclanthology.org/2025.clicit-1.47/",
+    pages = "480--489",
+    ISBN = "979-12-243-0587-3"
+}
+​```
+
 ## Contact
 
 For questions, contact [ejdis.gjinika@unibs.it](mailto:ejdis.gjinika@unibs.it).
